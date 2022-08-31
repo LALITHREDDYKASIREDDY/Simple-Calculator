@@ -1,2 +1,2 @@
 # Simple-Calculator
-created a Simple Calculator Website using HTML,CSS Javascript
+created a Simple Calculator Website using HTML,CSS and Javascript
